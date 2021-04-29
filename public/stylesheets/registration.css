@@ -1,0 +1,54 @@
+@font-face {
+  font-family: Poppins-Regular;
+  src: url('../fonts/poppins/Poppins-Regular.ttf'); 
+}
+
+@font-face {
+  font-family: Poppins-Bold;
+  src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+}
+
+@font-face {
+  font-family: Poppins-Medium;
+  src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+}
+
+@font-face {
+  font-family: Montserrat-Bold;
+  src: url('../fonts/montserrat/Montserrat-Bold.ttf'); 
+}
+.limiter {
+    width: 100%;
+    
+    /* background: -webkit-linear-gradient(-135deg, #18eb5e,#414141);
+    background: -o-linear-gradient(-135deg,  #18eb5e,#414141);
+    background: -moz-linear-gradient(-135deg,  #18eb5e,#414141);
+    background: linear-gradient(-135deg, #18eb5e,#414141); */
+    margin: 0 auto;
+  }
+.wrap-input100 {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 10px;
+  }
+.sc{
+  font-family: Poppins-Medium;
+  font-size: 20px;
+}
+.container1{
+    
+    padding: 0%;
+    margin-left : 0%;
+    margin-right: 0%;
+  }
+.form-container{
+    margin : 0%;
+    padding : 10px;
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  }
+.input100{
+  color: black;
+}
+  

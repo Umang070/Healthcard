@@ -1,0 +1,78 @@
+@font-face {
+    font-family: Poppins-Regular;
+    src: url('../fonts/poppins/Poppins-Regular.ttf'); 
+  }
+  
+  @font-face {
+    font-family: Poppins-Bold;
+    src: url('../fonts/poppins/Poppins-Bold.ttf'); 
+  }
+  
+  @font-face {
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  }
+  
+  @font-face {
+    font-family: Montserrat-Bold;
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf'); 
+  }
+.header{
+    padding: 0px;
+    width: 100%;
+    height:100%;
+    background: linear-gradient(-150deg,#bbbbbb, #007bff);
+    margin: 0%;
+    margin: 0%;
+}
+.c_header{
+  padding: 0px;
+  width: 100%;
+  height:100%;
+  background: linear-gradient(-150deg,#bbbbbb, #d3d2d2);
+  margin: 0%;
+  margin: 0%;
+}
+.Registration{
+    font-family: Montserrat-Bold;
+    src: url('../fonts/montserrat/Montserrat-Bold.ttf');
+}
+.row-header{
+    padding: 10px;
+}
+.wrap-input100 {
+    position: relative;
+    width: 100%;
+    z-index: 1;
+    margin-bottom: 10px;
+  }
+.sc{
+  font-family: Poppins-Medium;
+  font-size: 20px;
+}
+.container1{
+    padding: 0%;
+    margin-left : 0%;
+    margin-right: 0%;
+  }
+.form-container{
+    margin : 0%;
+    padding : 10px;
+    font-family: Poppins-Medium;
+    src: url('../fonts/poppins/Poppins-Medium.ttf'); 
+  }
+/* .input100 {
+    font-family: Poppins-Medium;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #000000; */
+
+    /* display: block; */
+    /* width: 100%;
+    background: #e6e6e6;
+    height: 50px;
+    border-radius: 10px;
+    padding-left: 22.5%;
+    padding-right:10%;
+} */
+  
